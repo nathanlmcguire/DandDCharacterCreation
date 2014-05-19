@@ -12,11 +12,11 @@ public class RollingStats
 	static int armorProtection, armorWeight;
 	static int fourSidedDie, sixSidedDie, eightSidedDie, twelveSidedDie, twentySidedDie;
 	
-	public static int classChanges()
+	public static int classChangesForHuman()
 		{
 		if("Fighter".equals(Introduction.classOfPlayer))
 			{
-			
+	
 			}
 			
 		if("Paladin".equals(Introduction.classOfPlayer))
@@ -26,7 +26,301 @@ public class RollingStats
 		
 		if("Cleric".equals(Introduction.classOfPlayer))
 			{
+			;	
+			}
+		
+		if("Ranger".equals(Introduction.classOfPlayer))
+			{
+			
+			}	
+		
+		if("Rogue".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Sorcerer".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Wizard".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Barbarian".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		if("Druid".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		}
+	
+	public static int classChangesForDwarf()
+		{
+		if("Fighter".equals(Introduction.classOfPlayer))
+			{
+	
+			}
+			
+		if("Paladin".equals(Introduction.classOfPlayer))
+			{
 				
+			}
+		
+		if("Cleric".equals(Introduction.classOfPlayer))
+			{
+			;	
+			}
+		
+		if("Ranger".equals(Introduction.classOfPlayer))
+			{
+			
+			}	
+		
+		if("Rogue".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Sorcerer".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Wizard".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Barbarian".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		if("Druid".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		}
+
+	public static int classChangesForElf()
+		{
+		if("Fighter".equals(Introduction.classOfPlayer))
+			{
+	
+			}
+			
+		if("Paladin".equals(Introduction.classOfPlayer))
+			{
+				
+			}
+		
+		if("Cleric".equals(Introduction.classOfPlayer))
+			{
+			;	
+			}
+		
+		if("Ranger".equals(Introduction.classOfPlayer))
+			{
+			
+			}	
+		
+		if("Rogue".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Sorcerer".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Wizard".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Barbarian".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		if("Druid".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		}
+	
+	public static int classChangesForHalfElf()
+		{
+		if("Fighter".equals(Introduction.classOfPlayer))
+			{
+	
+			}
+			
+		if("Paladin".equals(Introduction.classOfPlayer))
+			{
+				
+			}
+		
+		if("Cleric".equals(Introduction.classOfPlayer))
+			{
+			;	
+			}
+		
+		if("Ranger".equals(Introduction.classOfPlayer))
+			{
+			
+			}	
+		
+		if("Rogue".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Sorcerer".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Wizard".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Barbarian".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		if("Druid".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		}
+	
+	public static int classChangesForHalfOrc()
+		{
+		if("Fighter".equals(Introduction.classOfPlayer))
+			{
+	
+			}
+			
+		if("Paladin".equals(Introduction.classOfPlayer))
+			{
+				
+			}
+		
+		if("Cleric".equals(Introduction.classOfPlayer))
+			{
+			;	
+			}
+		
+		if("Ranger".equals(Introduction.classOfPlayer))
+			{
+			
+			}	
+		
+		if("Rogue".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Sorcerer".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Wizard".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Barbarian".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		if("Druid".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		}
+	
+	public static int classChangesForGnome()
+		{
+		if("Fighter".equals(Introduction.classOfPlayer))
+			{
+	
+			}
+			
+		if("Paladin".equals(Introduction.classOfPlayer))
+			{
+				
+			}
+		
+		if("Cleric".equals(Introduction.classOfPlayer))
+			{
+			;	
+			}
+		
+		if("Ranger".equals(Introduction.classOfPlayer))
+			{
+			
+			}	
+		
+		if("Rogue".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Sorcerer".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Wizard".equals(Introduction.classOfPlayer))
+			{
+			
+			}
+		
+		if("Barbarian".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		if("Druid".equals(Introduction.classOfPlayer))	
+			{
+			
+			}
+		
+		}
+
+	public static int classChangesForHalfling()
+		{
+		if("Fighter".equals(Introduction.classOfPlayer))
+			{
+	
+			}
+			
+		if("Paladin".equals(Introduction.classOfPlayer))
+			{
+				
+			}
+		
+		if("Cleric".equals(Introduction.classOfPlayer))
+			{
+			;	
 			}
 		
 		if("Ranger".equals(Introduction.classOfPlayer))
@@ -65,37 +359,37 @@ public class RollingStats
 		{
 		if("Human".equals(Introduction.raceOfPlayer))
 			{
-			
+			RollingStats.classChangesForHuman();
 			}
 		
 		if("Dwarf".equals(Introduction.raceOfPlayer))
 			{
-			
+			RollingStats.classChangesForDwarf();
 			}
 		
 		if("Elf".equals(Introduction.raceOfPlayer))
 			{
-			
+			RollingStats.classChangesForElf();
 			}
 		
 		if("Half-Elf".equals(Introduction.raceOfPlayer))
 			{
-			
+			RollingStats.classChangesForHalfElf();
 			}
 		
 		if("Half-Orc".equals(Introduction.raceOfPlayer))
 			{
-			
+			RollingStats.classChangesForHalfOrc();
 			}
 		
 		if("Gnome".equals(Introduction.raceOfPlayer))
 			{
-			
+			RollingStats.classChangesForGnome();
 			}
 		
 		if("Halfling".equals(Introduction.raceOfPlayer))	
 			{
-			
+			RollingStats.classChangesForHalfling();
 			}
 		
 		}

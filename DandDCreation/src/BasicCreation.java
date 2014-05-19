@@ -13,6 +13,7 @@ public class BasicCreation
 		RollingStats.findIntelligenceModifier();
 		RollingStats.findCharismaModifier();
 		RollingStats.findConstitutionModifier();
+		RollingStats.raceChanges();
 		Output.outputStats();
 		
 		}
